@@ -36,6 +36,8 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
     //1. random number
     dice = Math.floor(Math.random() * 6 ) + 1;
 
+    
+
     //2. display the score
     var diceDOM = document.querySelector('.dice')
     diceDOM.style.display = 'block';
@@ -43,14 +45,14 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 
 
     //3. Update the round score IF the rolled number was NOT 1
-    if (dice != 1) {
-        //add score
-        roundScore += dice;
-        document.querySelector('#current-' + activePlayer).textContent = roundScore;
-    } else {
+        if (dice != 1) {
+          //add score
+         roundScore += dice;
+         document.querySelector('#current-' + activePlayer).textContent = roundScore;
+        } else {
         //next player
         nextPlayer();
-    }
+        }
     }
 });
 
