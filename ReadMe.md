@@ -1,6 +1,8 @@
 # Roll Dice Game
 
-This project is about a roll dice game. Please read down below for the rules. Enjoy the Game!.
+This project is about a roll dice game. Please read down below for the rules.
+I build this project as part of my journey learning JAVASCRIPT.
+Enjoy the Game!.
 
 ## GAME RULES:
 
@@ -24,8 +26,7 @@ gets added to his GLOBAL score. After that, it's the next player's turn.
 
 ## Languages
 
-I build this project as part of my journey learning JAVASCRIPT.
- I built this repo using:
+I built this repo using:
 
  - HMTL
  - CSS
