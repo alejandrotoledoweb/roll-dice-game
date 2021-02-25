@@ -1,8 +1,7 @@
 # Roll Dice Game
 
-This project is about a roll dice game. Please read down below for the rules.
-I build this project as part of my journey learning JAVASCRIPT.
-Enjoy the Game!.
+This project is a practice of create a simple roll-dice game. You can interact with the app in the browser of your local machine and play with two players.
+Built with JavaScript.
 
 ## GAME RULES:
 
@@ -15,22 +14,19 @@ After that, it's the next player's turn.
 gets added to his GLOBAL score. After that, it's the next player's turn.
 - The first player to reach 100 points on GLOBAL score wins the game.
 
-
-## Images
-
 ![screenshot](./assets/images/Screenshot-game.png)
 
-## Try the game 
-
-[Click on this link to play the game](https://alejandrotoledoweb.github.io/roll-dice-game/)
-
-## Languages
+## Built with
 
 I built this repo using:
 
  - HMTL
  - CSS
  - JAVASCRIPT
+
+## Live Demo
+
+[Click on this link to play the game](https://alejandrotoledoweb.github.io/roll-dice-game/)
 
  ## Author
 
@@ -39,6 +35,25 @@ I built this repo using:
 - GitHub: [@alejandrotoledoweb](https://github.com/alejandrotoledoweb)
 - Twitter: [@alejot](https://twitter.com/alejot) 
 - LinkedIn: [Alejandro Toledo](https://www.linkedin.com/in/alejandro-toledo-3b444b109/) 
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+Have a pc running Linux, MacOS or Windows.
+
+### Setup
+
+Get a copy of the repo using this command
+
+`git clone https://github.com/alejandrotoledoweb/roll-dice-game.git`
+
+### Usage
+
+To acces the repo run this command `cd roll-dice-game`, and then open the `index.html` file with the live server of your choice.
+
 
 ## 🤝 Contributing
 
