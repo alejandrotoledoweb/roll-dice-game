@@ -1,6 +1,6 @@
 # Roll Dice Game
 
-This project is a practice of create a simple roll-dice game. You can interact with the app in the browser of your local machine and play with two players.
+This project is a practice of creating a simple roll-dice game. You can interact with the app in the browser of your local machine and play with two players.
 Built with JavaScript.
 
 ## GAME RULES:
